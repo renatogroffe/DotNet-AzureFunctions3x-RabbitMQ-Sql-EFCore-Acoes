@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "BaseAcoes": "Data Source=localhost;Initial Catalog=BaseAcoes;User Id=sa;Password=GroffeSqlServer2019!;MultipleActiveResultSets=true;",
+        "RabbitMQConnection": "amqp://testes:GroffeRabbitMQ2021!@localhost:5672/"
+    }
+}
